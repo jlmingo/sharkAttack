@@ -54,7 +54,7 @@ Pie charts for USA, Australia, South Africa and Worldwide were plotted to see wh
 
 In general, Surfing, Fishing and Swimming and seem to be the most risky activities in this context. This confirms the hypothesis, although it is surprising that fishing is so frequent when it comes to shark attacks.
 
-**6. Activity by relevant country and worldwide**
+**6. Non-fatal, fatal and unknown attacks**
 
 Finally, a bar chart with non-fatal, fatal and unknown attacks in the last 10 years was plotted. It shows a clear majority of non-fatal accidents.
 
