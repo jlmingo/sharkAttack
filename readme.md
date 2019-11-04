@@ -44,17 +44,19 @@ Some values were renamed to in Fatal Y/N column.
 
 Then, Injury and Fatal Fatal Y/N columns were double checked to avoid fake fatal reports. There were none.
 
-**4. Attacks by country**
+## Getting insights from cleaned DataFrame
+
+**1. Attacks by country**
 
 A bar chart was plotted to see in which countries there were most attacks. This resulted in seeing that in USA, Australia and South Africa there are many of them. The column "Other" is significant, but it as said before, it is made from countries with less than 25 incidents in more than 200 years, while only in the USA there were more than 2000.
 
-**5. Activity by relevant country and worldwide**
+**2. Activity by relevant country and worldwide**
 
 Pie charts for USA, Australia, South Africa and Worldwide were plotted to see which activities were more related with shark attacks.
 
 In general, Surfing, Fishing and Swimming and seem to be the most risky activities in this context. This confirms the hypothesis, although it is surprising that fishing is so frequent when it comes to shark attacks.
 
-**6. Non-fatal, fatal and unknown attacks**
+**3. Non-fatal, fatal and unknown attacks and conclusions**
 
 Finally, a bar chart with non-fatal, fatal and unknown attacks in the last 10 years was plotted. It shows a clear majority of non-fatal accidents.
 
